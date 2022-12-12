@@ -1,4 +1,4 @@
-<h1>Hello, I'm Roberto, an <a href="https://www.linkedin.com/in/roberto-fernandez-52a374a1/">IT Professional</a></h1>
+<h1>Hello, I'm Roberto, an <a href="https://www.linkedin.com/in/roberto-fernandez-52a374a1/">IT Professional</a> 👨🏾‍💻</h1>
 
 <h2>💻 Information Technology Projects:</h2>
 
