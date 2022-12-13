@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [Enable Internet Information Services](https://github.com/Robnandez1/IIS.git)
-  - [Web Platform Installer: C++ Redistributable, PHP Manager Installation, and MySQL ](https://github.com/Robnandez1/IIS.git)
+  - [Web Platform Installer: C++ Redistributable, PHP Manager Installation, and MySQL ](https://github.com/Robnandez1/web-platform)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/robnandez1/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/robnandez1/azure-network-protocols)
