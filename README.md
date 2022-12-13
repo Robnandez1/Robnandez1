@@ -6,7 +6,7 @@
 - <b>Microsoft Azure:</b>
   - [Enable Internet Information Services](https://github.com/Robnandez1/IIS.git)
   - [Web Platform Installer: C++ Redistributable, PHP Manager Installation, and MySQL ](https://github.com/Robnandez1/web-platform.git)
-  - [Permissions Configurement](https://github.com/Robnandez1/permis.git)
+  - [Permissions Configurement: Active Directory (AD)](https://github.com/Robnandez1/permis.git)
 
 <h2>📱Connect with me:</h2>
 
