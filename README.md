@@ -2,13 +2,11 @@
 
 <h2>💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>osTicket (Help Desk Ticketing System):</b>
+- <b>Microsoft Azure:</b>
   - [Enable Internet Information Services](https://github.com/Robnandez1/IIS.git)
   - [Web Platform Installer: C++ Redistributable, PHP Manager Installation, and MySQL ](https://github.com/Robnandez1/web-platform.git)
   - [Permissions Configurement](https://github.com/Robnandez1/permis.git)
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/robnandez1/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/robnandez1/azure-network-protocols)
 
 <h2>📱Connect with me:</h2>
 
