@@ -3,9 +3,9 @@
 <h2>💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [Enable Internet Information Services (IIS)(https://github.com/Robnandez1/IIS.git)  
-  - [osTicket: Post-Installation Configuration](https://github.com/robnandez1/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/robnandez1/ticket-lifecycle)
+- [Enable Internet Information Services (IIS)(https://github.com/Robnandez1/IIS.git)  
+  [Enable Internet Information Services (IIS)(https://github.com/Robnandez1/IIS.git)  
+  - [Enable Internet Information Services](https://github.com/Robnandez1/IIS.git)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/robnandez1/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/robnandez1/azure-network-protocols)
